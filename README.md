@@ -1,1 +1,2 @@
 # CodewarsProgs
+Codewars katas solutions.
